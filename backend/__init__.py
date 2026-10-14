@@ -1,1 +1,2 @@
-"""Backend package."""
+"""Feature Store Mini application package."""
+__version__ = "2.0.0"
